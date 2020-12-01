@@ -1,0 +1,1 @@
+Hello there!! This project is DO YO KNOW Nishank made by me during neog.camp bootcamp. It is a CLI(command line interface) app project about how you know about me and my choices. So enjoy using this app. 
